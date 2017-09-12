@@ -9,6 +9,7 @@
     <modules>
         <module>activemq-standalone</module>
         <module>activemq-pool</module>
+        <module>activemq-spring</module>
     </modules>
 
     <properties>
