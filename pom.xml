@@ -7,7 +7,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>activemq-standalone</module>
+        <module>activemq-usage</module>
         <module>activemq-pool</module>
         <module>activemq-spring</module>
         <module>activemq-spring-boot</module>
