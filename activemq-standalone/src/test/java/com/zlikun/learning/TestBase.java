@@ -26,7 +26,7 @@ public class TestBase {
     protected ConnectionFactory connectionFactory ;
 
     @Before
-    public void init() {
+    public void init() throws JMSException {
         connectionFactory = new ActiveMQConnectionFactory(
                 ActiveMQConnection.DEFAULT_USER,
                 ActiveMQConnection.DEFAULT_PASSWORD,
