@@ -7,8 +7,8 @@
     <packaging>pom</packaging>
 
     <modules>
-
         <module>activemq-standalone</module>
+        <module>activemq-pool</module>
     </modules>
 
     <properties>
